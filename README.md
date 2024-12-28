@@ -1,4 +1,4 @@
-# Portfolios
+# Detecting Skin cancer using deep learning methods
 
 The project is about utilizing deep learning methods to identify skin cancer indicators and distinguish it from other skin related conditions. In my project I've used a CNN and ResNet model to detect melanoma across the images provided. THe objective is to ensure that the model is able to distinguish melanoma from other indicators such as. Kurtosis. 
 
